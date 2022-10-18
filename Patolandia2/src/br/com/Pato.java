@@ -6,6 +6,7 @@ public class Pato {
 	
 	public void nadar() {
 		System.out.println("Estou nadando...");
+		System.out.println("testando o git");
 	}
 	
 	public void display() {
